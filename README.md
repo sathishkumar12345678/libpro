@@ -1,2 +1,2 @@
 # libpro
-library managment
+library managment system
